@@ -1,5 +1,5 @@
 {
-  "name": "yose-node-express-example",
+  "name": "yose-node-express",
   "description": "An example to pass @YoseTheGame with express",
   "version": "1.0.0",
   "main": "app.js",
