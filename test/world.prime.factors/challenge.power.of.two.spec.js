@@ -15,7 +15,7 @@ describe('Passing the Power of Two level:', function() {
     afterEach(function() {
         testServer.close(); 
     });
-   
+/*   
     it('returns the expected output', function(done) {
         request('http://localhost:7000/primeFactors?number=16', function(error, response, body) {
             expect(body).to.equal( JSON.stringify( 
@@ -28,5 +28,5 @@ describe('Passing the Power of Two level:', function() {
             done(); 
         });
     });
-   
+*/   
 });
