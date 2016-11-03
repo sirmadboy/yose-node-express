@@ -1,4 +1,4 @@
-# YoseTheGame azka
+# YoseTheGame
 
 ## Get ready
 
