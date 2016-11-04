@@ -15,7 +15,7 @@ describe('Passing the Minesweeper: board level:', function() {
     afterEach(function() {
         testServer.close(); 
     });
-/*
+
     it("has the expected elements", function(done){
         browser.visit(url, function(err) {
             browser.assert.element('#title');
@@ -23,5 +23,5 @@ describe('Passing the Minesweeper: board level:', function() {
             done();
         });
     });
- */  
+   
 });
